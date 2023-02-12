@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya 👋
 
-## I'm a Self-Taught Front-end Developer specialized in React Native and backend development.
+## I'm a Automation engineer and a backend developer
 
 - ### 🔭 I’m currently working as an Automation engineer at [CBNITS](https://www.cbnits.com/)
 - ### 🌱 I’m currently learning React Native
