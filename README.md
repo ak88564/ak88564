@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya 👋
 
-## I'm a Automation engineer and a backend developer
+## I'm a backend developer
 
 - ### 🔭 I’m currently working as an Automation engineer at [CBNITS](https://www.cbnits.com/)
 - ### 🌱 I’m currently learning React Native
