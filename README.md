@@ -2,7 +2,7 @@
 
 ## I'm a backend developer
 
-- ### 🔭 I’m currently working as an Automation engineer at [CBNITS](https://www.cbnits.com/)
+- ### 🔭 I’m currently working as a Java developer at [CBNITS](https://www.cbnits.com/)
 - ### 🌱 I’m currently learning React Native
 - ### 👯 I’m looking for fun and challenging projects.
 - ### 🥅 2023 Goals: Want to work in a product based company
